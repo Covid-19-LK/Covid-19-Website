@@ -2,7 +2,7 @@
 
 ![covid](https://user-images.githubusercontent.com/79355885/126430024-d34cde97-f3de-4ac6-8383-5d3bfd71e9eb.png)
 
-
+<img src="https://user-images.githubusercontent.com/79355885/126430024-d34cde97-f3de-4ac6-8383-5d3bfd71e9eb.png" alt="Logo Image" width="150">
 
 # What does it show ?
 * Local Covid 19 Informations
